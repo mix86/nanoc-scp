@@ -1,0 +1,1 @@
+require 'nanoc/extra/deployers'
